@@ -1,0 +1,7 @@
+Nouvelle partie
+Quitter
+Retour
+Sauvegarder
+Charger
+Perdu
+Votre score est de : 
